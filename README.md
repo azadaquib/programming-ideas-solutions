@@ -2,7 +2,7 @@
 
 ## About
 
-This project aims to give variuos solution to the programming ideas. The ideas are taken from [Programming ideas 2](https://play.google.com/store/apps/details?id=com.alansa.ideabag2&hl=en) app on the playstore. 
+This project aims to give various solution to the programming ideas. The ideas are taken from [Programming ideas 2](https://play.google.com/store/apps/details?id=com.alansa.ideabag2&hl=en) app on the Playstore. 
 
 We aim at finding solutions to the questions using different programming languages and improve on them. 
 
@@ -10,7 +10,7 @@ We aim at finding solutions to the questions using different programming languag
 
 The solutions in time will cover various programming languages as well as programming paradigms.
 
-Often there are several approaches to solving any problem. There might not be a best way but there may be several optimum ways depending on the context. Sometimes clarity is required more than slight improvements in effeciency.
+Often there are several approaches to solving any problem. There might not be a best way but there may be several optimum ways depending on the context. Sometimes clarity is required more than slight improvements in efficiency.
 
 Keeping all this mind, this project aims to consolidate the various solution under one banner and to clearly highlight the pros and cons of each approach.
 
@@ -22,4 +22,10 @@ At the moment I am working on bringing forward solutions in C++. The reason for 
 
 I also intend to add multiple versions of the same program, ranging from a naive approach to more optimized ones and situation dependent versions.
 
-## 
+## TODO
+
+Too many to list out at the moment. 
+
+## License
+
+No restrictions whatsoever. 
