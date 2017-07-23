@@ -22,6 +22,11 @@ At the moment I am working on bringing forward solutions in C++. The reason for 
 
 I also intend to add multiple versions of the same program, ranging from a naive approach to more optimized ones and situation dependent versions.
 
+### Progress
+
+At current the progress is unremarkable. My work as it begins is not to give the best solutions possible but to build upon a skeleton that I wish to be improved over time by other people's contribution. The programs written at current may seem unimpressive but then I hope if you have a better solution, you wouldn't mind plugging in the gap.   
+Feel free to create a pull request. :)
+
 ## TODO
 
 Too many to list out at the moment. 
